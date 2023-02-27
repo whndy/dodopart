@@ -5,12 +5,12 @@ DIR_CONFIG="/etc/v2ray"
 DIR_RUNTIME="/usr/bin"
 DIR_TMP="$(mktemp -d)"
 
-uuidone=0e8cc52e-caf5-44aa-90c1-697e49fd8887
-uuidtwo=56a697d8-3fcd-4cf0-859c-9ab1b5df58df
-uuidthree=fbcfc0ba-76ce-4fb6-a61a-ed239b70b802
-uuidfour=50da9c1f-bf7a-47fa-b933-f7ad52161d41
-uuidfive=281204fe-1c43-4d9d-8727-b2ba90fc9863
-mypath=/file-myfile
+uuidone=2e672460-8881-4521-bc89-b53c212e0996
+uuidtwo=68fa9be1-64a8-45bd-a15e-01a97a2ca946
+uuidthree=28480d4a-037d-4a1d-a587-2b3cbe8202e7
+uuidfour=201f773f-c142-448c-847e-0e4f3872dea0
+uuidfive=9458b4ee-a3d3-4e74-968e-0fdfff556c17
+mypath=/sakura-nihongo
 myport=8080
 
 
